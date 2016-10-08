@@ -3,13 +3,17 @@
  * Created by PhpStorm.
  * User: HY
  * Date: 2016/10/8
- * Time: 13:52
+ * Time: 14:16
  */
 
-namespace DB;
+namespace Db;
 
 
 class PDO
 {
+    function asda()
+    {
+        
+    }
 
 }
