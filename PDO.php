@@ -3,14 +3,13 @@
  * Created by PhpStorm.
  * User: HY
  * Date: 2016/10/8
- * Time: 13:37
+ * Time: 13:52
  */
 
-namespace Db;
+namespace DB;
 
 
-class PDO implements IDatabase
+class PDO
 {
-
 
 }
